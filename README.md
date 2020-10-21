@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡Hi, I'm Lewis⚡
 
 <!--
 **lewis-rosenberg-smith/lewis-rosenberg-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+After a long stint as a Sound and Video technician on live events, I've decided to dive in headfirst and pursue my interest in tech. I recently attended a full immersion web development bootcamp at Enspiral Dev Academy in Wellington, NZ and I'm seeking to continue my learning in Full Stack Software Development.
+
+🌱For the latest project I've worked on here(login with user:lewis/ PW:123)🌱
+  https://the-scrap-app.herokuapp.com/#/
+  
+  👉 email me @ lrosenbergsmith@gmail.com
+  
